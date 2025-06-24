@@ -1,15 +1,12 @@
 # 🛡️ Phishing Link Scanner using Python
 
-### 🧠 Internship Project – Brainwave Matrix Solutions  
-**Cyber Security Intern – Angel Kaur Kalra**  
-📅 **First Report Submission Deadline: In 10 Days**  
 🎯 **Project Goal: Build a basic Phishing Link Scanner with a simple Python-based frontend**
 
 ---
 
 ## 📌 Project Overview
 
-This project is part of my internship with **Brainwave Matrix Solutions** under the **Cybersecurity domain**. The goal is to develop a **Phishing Link Scanner** using **pure Python** with a very simple frontend. The scanner analyzes a given URL and returns basic insights into whether the link may be potentially suspicious or safe.
+The goal is to develop a **Phishing Link Scanner** using **Python** with a simple frontend. The scanner analyzes a given URL and returns basic insights into whether the link may be potentially suspicious or safe.
 
 ---
 
