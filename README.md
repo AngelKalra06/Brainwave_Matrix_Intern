@@ -6,9 +6,13 @@
 ## 👤 Intern Info
 
 **Name**: Angel Kaur Kalra  
+
 **Role**: Cyber Security Intern  
+
 **Institution**: Trinity Institute Of Professional Studies/ GGSIPU 
+
 **Duration**: 19 June 2025 – Present
+
 **Email**: kaurkalra041@gmail.com  
 
 ---
