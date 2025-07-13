@@ -1,5 +1,5 @@
 
-# 🧠 Brainwave Matrix Solutions – Cyber Security Internship Projects
+# 🧠 Brainwave Matrix Solutions – Cybersecurity Internship Projects
 
 ---
 
